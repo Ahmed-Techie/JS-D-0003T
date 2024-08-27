@@ -184,3 +184,5 @@ screen.colorDepth
 screen.pixelDepth
 
 **************************Day-3:Task-JS:-End: **************************
+
+
